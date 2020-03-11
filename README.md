@@ -7,5 +7,3 @@
 - Evaluation tools for NLP techniques
 
 
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
